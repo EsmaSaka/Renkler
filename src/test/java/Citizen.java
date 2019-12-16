@@ -19,7 +19,7 @@ public class Citizen {
     }
 
     public Citizen(String  name, int age) {
-        super();
+      //  super();
         this.name=name;
         this.age=age;
     }
